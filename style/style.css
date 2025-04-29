@@ -1,0 +1,40 @@
+.gabriel {
+    font-weight: 900;
+    font-size: 40px;
+}
+.parent {
+    display:inline-flex;
+    justify-content: space-between;
+    border: 10px;
+}
+#floral {
+    font-size: 25px;
+}
+.right{
+    padding: 20px;
+    background-color: white;
+    width: auto;
+    height: fit-content;
+    }
+.left{
+    margin-left: 270px;
+}
+#Nprice {
+    color: seagreen;
+    font-size: 30px;
+}
+button{
+    color: rgb(255, 255, 255);
+    background-color: seagreen;
+    border: 0px;
+    padding: 20px;
+    border-radius: 9px;
+    font-size: 20px;
+}
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(184, 98%, 38%); 
+}
